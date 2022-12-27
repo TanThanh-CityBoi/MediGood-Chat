@@ -1,1 +1,1 @@
-# MediGood-ChatModel
+# MediGood-Chat
